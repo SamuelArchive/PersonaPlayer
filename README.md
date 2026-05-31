@@ -5,19 +5,16 @@
 
 The player supports local audio files, playlist management, drag-and-drop track reordering, progress control, volume adjustment, shuffle mode, repeat mode, and automatic saving through browser storage.
 
-## Features
+## Features of PersonaPlayer
 
 * Persona 5-inspired user interface
 * Custom player title and codename
 * Custom avatar image
-* Editable RPG-style stats
+* Editable stats
 * Accent and background color customization
-* Up to 10 music tracks
+* 10 music spaces for your files
 * Drag-and-drop playlist reordering
-* Play, pause, next, previous controls
-* Shuffle and repeat modes
-* Volume control
-* Progress bar seeking
+* Usual Music Player functionality
 * Local storage save system
 * Fully client-side operation
 
@@ -55,33 +52,19 @@ Drag and drop tracks in the editor to reorder them.
 
 ### 6. Save Configuration
 
-Click **SAVE & CLOSE** to store all your custom settings
+Click **SAVE & CLOSE** to store all your custom settings.
 
-All data is saved locally in your browser and will be saved the next time you open
+All data is saved locally in your browser and will be saved the next time you open.
 
-### 7. Play Music
+Click the gear button to reopen the editor if you want to edit your player again.
 
-Use the controls to:
-
-* Play/Pause
-* Skip tracks
-* Return to previous tracks
-* Enable Shuffle
-* Enable Repeat
-* Adjust Volume
-* Seek through songs
-
-### 8. Reopen the Editor
-
-Click the gear icon in the top-right corner to edit your configuration at any time. (more options in the future)
+with that, the project is ready to use and apply!
 
 ## Technical Information
 
 * Frontend: HTML, CSS, Basic JavaScript
 * Storage: Local Storage
 * Audio Engine: HTML5 Audio API
-* Frameworks: None
-* Backend: None
 * Installation: Not required
 
 thanks for reading and go jam now!
