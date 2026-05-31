@@ -1,13 +1,9 @@
 # PersonaPlayer
 ## Description
 
-**Persona Player** is a fully customizable Persona 5-inspired music player built with pure HTML, CSS, and JavaScript. It allows users to create a personalized music profile with custom colors, stats, avatar, codename, and playlist while maintaining the iconic stylish UI inspired by the Persona series.
+**Persona Player** is a fully customizable Persona 5-inspired music player built with HTML & CSS. It is a functional start to KnowMe, an app dedicated to aesthetic-building pages with functional application
 
 The player supports local audio files, playlist management, drag-and-drop track reordering, progress control, volume adjustment, shuffle mode, repeat mode, and automatic saving through browser storage.
-
-Designed as a standalone browser application, Persona Player requires no installation, accounts, servers, or external dependencies beyond a modern web browser.
-
----
 
 ## Features
 
@@ -25,13 +21,11 @@ Designed as a standalone browser application, Persona Player requires no install
 * Local storage save system
 * Fully client-side operation
 
----
-
 ## How to Use
 
 ### 1. Open the Player
 
-Open `PersonaPlayer.html` in any modern browser.
+Open `PersonaPlayer.html` in a browser (will make it a little app later)
 
 ### 2. Customize Your Profile
 
@@ -53,7 +47,7 @@ Click the avatar frame and select an image from your device.
 * Click **Load Audio File**
 * Select an audio file from your computer
 
-You can add up to 10 tracks.
+You can add up to 10 tracks (will make it longer later dw guys)
 
 ### 5. Organize Your Playlist
 
@@ -61,17 +55,9 @@ Drag and drop tracks in the editor to reorder them.
 
 ### 6. Save Configuration
 
-Click **SAVE & CLOSE** to store:
+Click **SAVE & CLOSE** to store all your custom settings
 
-* Playlist
-* Audio files
-* Avatar
-* Colors
-* Stats
-* Codename
-* Title
-
-All data is saved locally in your browser.
+All data is saved locally in your browser and will be saved the next time you open
 
 ### 7. Play Music
 
@@ -87,17 +73,15 @@ Use the controls to:
 
 ### 8. Reopen the Editor
 
-Click the gear icon in the top-right corner to edit your configuration at any time.
-
----
+Click the gear icon in the top-right corner to edit your configuration at any time. (more options in the future)
 
 ## Technical Information
 
-* Frontend: HTML5, CSS3, JavaScript
-* Storage: LocalStorage
+* Frontend: HTML, CSS, Basic JavaScript
+* Storage: Local Storage
 * Audio Engine: HTML5 Audio API
 * Frameworks: None
 * Backend: None
 * Installation: Not required
 
-**Persona Player is a lightweight, offline-first music player focused on personalization, aesthetics, and simplicity.**
+thanks for reading and go jam now!
